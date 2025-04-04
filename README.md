@@ -1,4 +1,4 @@
-![Diagramme du mentorat](Schéma Fonctionnel.png)
+![Diagramme du mentorat]([Schéma Fonctionnel.png](https://github.com/M-ZABIULLAH/mentoring-program/blob/feature/sch%C3%A9ma-fonctionnel/Sch%C3%A9ma%20Fonctionnel.png))
 
 # Système de Mentorat Simplon
 
