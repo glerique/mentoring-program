@@ -87,37 +87,34 @@ Pour attirer davantage de mentors et d’acteurs du monde professionnel, il est 
 - Intégrer le mentorat dans les événements de remise de diplôme.
 - Créer une page pour mettre en avant les avantages de rejoindre le programme de mentorat.
 
-### 3.5. Intégration du pôle mentoring à Simplon
-Le pôle mentoring doit être intégré à Simplon tout en restant indépendant des formations.
-Il serait géré administrativement par Simplon avec une personne dédiée pour :
-- Gérer les candidatures (mentors et mentorés).
-- Valider ou mettre en attente les candidatures.
-- Mettre en relation les mentors et les mentorés.
-- Assurer le suivi et l’amélioration du programme.
-
 ---
 
 ## 4. Problématiques et solutions
 
 ### 4.1. Mise en relation des mentors et mentorés
-Créer un système de candidature pour garantir la motivation et les compétences nécessaires.
 
-Mise en place d’un questionnaire pour le matching basé sur :
-- La formation suivie.
-- Les compétences techniques
-- Les soft skills.
-- L'expérience professionnelle.
-- La disponibilité.
-- La localisation (optionnelle, pour favoriser les rencontres physiques).
+Pour garantir une mise en relation efficace et adaptée, un processus structuré sera mis en place afin d’évaluer les motivations, compétences et besoins des participants.
 
-Par la suite, les candidatures seront analysées et en fonction des besoin, les mentorés seront mis en relation.
+#### Étapes du processus :
+1. **Questionnaire de candidature** :
+   - Les mentors et mentorés rempliront un formulaire détaillé incluant des informations sur :
+     - La formation suivie.
+     - Les compétences techniques et soft skills.
+     - L'expérience professionnelle.
+     - La disponibilité.
+     - La localisation (optionnelle, pour favoriser les rencontres physiques).
+     - Les attentes spécifiques concernant le mentorat.
 
-Deux options emmergent pour la mise en relation :
-1. **Choix par le mentor** : Une liste de mentorés potentiels, correspondant à leurs compétences et disponibilités, sera proposée aux mentors. Ils pourront ainsi choisir les personnes qu’ils souhaitent accompagner.
-2. **Sélection par Simplon** : Une personne dédiée chez Simplon se chargera de sélectionner et d’attribuer les binômes mentor/mentoré en fonction des profils et des besoins identifiés.
+2. **Analyse des candidatures** :
+   - Les candidatures seront examinées pour identifier les correspondances optimales entre mentors et mentorés, en tenant compte des objectifs et des besoins de chacun.
 
-**Approche mixte** :
-   - Il est également possible de combiner les deux options. Dans ce cas, la personne en charge du pôle mentoring chez Simplon supervisera les mises en relation pour garantir une adéquation optimale.
+3. **Options de mise en relation** :
+   - **Sélection par Simplon** : Une personne dédiée chez Simplon se chargera de former les binômes potentiels mentor/mentoré en fonction des profils et des besoins identifiés.
+   - **Choix par le mentor** : Une liste de mentorés potentiels, correspondant à leurs compétences, attentes et disponibilités, sera proposée aux mentors. Ils pourront ainsi choisir les personnes qu’ils souhaitent accompagner.
+
+la personne en charge du pôle mentoring chez Simplon supervisera les mises en relation pour garantir une adéquation optimale.
+
+Ce processus vise à maximiser la satisfaction des participants tout en assurant une relation mentor/mentoré alignée sur les objectifs du programme.
 
 ### 4.2. Différents types de mentorat
 - **Mentorat technique** : support sur les technologies, outils, bonnes pratiques.
@@ -128,6 +125,14 @@ Deux options emmergent pour la mise en relation :
 - Définir jusqu’où peut aller l’accompagnement.
 - Intégrer les valeurs de pédagogie active, inclusivité et esprit Simplon.
 - Proposer le mentorat en option, pour éviter toute surcharge durant la formation.
+
+### 4.4. Intégration du pôle mentoring à Simplon
+Le pôle mentoring doit être intégré à Simplon tout en restant indépendant des formations.
+Il serait géré administrativement par Simplon avec une personne dédiée pour :
+- Gérer les candidatures (mentors et mentorés).
+- Valider ou mettre en attente les candidatures.
+- Mettre en relation les mentors et les mentorés.
+- Assurer le suivi et l’amélioration du programme.
 
 ---
 
