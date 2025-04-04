@@ -1,4 +1,4 @@
-![Diagramme du mentorat](images/Schéma Fonctionnel.png)
+![Diagramme du mentorat](Schéma Fonctionnel.png)
 
 # Système de Mentorat Simplon
 
