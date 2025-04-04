@@ -31,19 +31,20 @@ Le mentorat chez Simplon pourrait fonctionner :
 - Inter-promo.
 - Inter-campus.
 - Avec les alumni.
+- Un binôme mentor/mentoré.
 
 L’outil privilégié pour les échanges serait **Discord**. Cependant, afin de toucher un public plus large, notamment des professionnels extérieurs, il est essentiel de sortir de Discord pour promouvoir le programme de mentorat.
 
-### 3.2. Format idéal
-Un binôme mentor/mentoré.
+### 3.2. Domaines d'intervention du mentorat chez Simplon
 
-Mentorat orienté sur :
-- L’aide technique (langages, technologies, outils).
-- L’aiguillage professionnel (choix de formation, orientation métier).
-- La vision métier et son application sur le terrain.
-- L’expérience en formation et son impact sur la carrière.
-- Le développement du réseau professionnel.
-- La préparation au monde professionnel et au travail en équipe.
+Le mentorat se concentrera sur plusieurs axes clés pour accompagner les mentorés :
+
+- **Aide technique** : soutien sur les langages, technologies et outils.
+- **Orientation professionnelle** : conseils sur les choix de formation et de carrière.
+- **Vision métier** : compréhension des métiers et leur application sur le terrain.
+- **Expérience en formation** : partage d'expérience sur les formations.
+- **Développement du réseau** : élargissement des contacts professionnels.
+- **Préparation au monde professionnel** : intégration au travail en équipe et au milieu professionnel.
 
 ### 3.3. Avantages du mentorat
 
@@ -91,6 +92,7 @@ Le pôle mentoring doit être intégré à Simplon tout en restant indépendant 
 Il serait géré administrativement par Simplon avec une personne dédiée pour :
 - Gérer les candidatures (mentors et mentorés).
 - Valider ou mettre en attente les candidatures.
+- Mettre en relation les mentors et les mentorés.
 - Assurer le suivi et l’amélioration du programme.
 
 ---
@@ -102,9 +104,20 @@ Créer un système de candidature pour garantir la motivation et les compétence
 
 Mise en place d’un questionnaire pour le matching basé sur :
 - La formation suivie.
-- Les compétences techniques et soft skills.
+- Les compétences techniques
+- Les soft skills.
+- L'expérience professionnelle.
 - La disponibilité.
 - La localisation (optionnelle, pour favoriser les rencontres physiques).
+
+Par la suite, les candidatures seront analysées et en fonction des besoin, les mentorés seront mis en relation.
+
+Deux options emmergent pour la mise en relation :
+1. **Choix par le mentor** : Une liste de mentorés potentiels, correspondant à leurs compétences et disponibilités, sera proposée aux mentors. Ils pourront ainsi choisir les personnes qu’ils souhaitent accompagner.
+2. **Sélection par Simplon** : Une personne dédiée chez Simplon se chargera de sélectionner et d’attribuer les binômes mentor/mentoré en fonction des profils et des besoins identifiés.
+
+**Approche mixte** :
+   - Il est également possible de combiner les deux options. Dans ce cas, la personne en charge du pôle mentoring chez Simplon supervisera les mises en relation pour garantir une adéquation optimale.
 
 ### 4.2. Différents types de mentorat
 - **Mentorat technique** : support sur les technologies, outils, bonnes pratiques.
@@ -126,12 +139,19 @@ Formulaire de candidature pour les mentors et mentorés.
 #### Questions clés pour les mentors :
 - Pourquoi voulez-vous être mentor ?
 - Quel type de mentorat souhaitez-vous offrir ?
-- Sur quelles problématiques pouvez-vous aider ?
+- Sur quelles thématiques ou problématiques pouvez-vous accompagner ?
+- Préférez-vous un mentorat court terme ou long terme ? Pourquoi ?
+- Quelle est votre disponibilité (fréquence et durée des sessions) ?
+- Avez-vous une expérience préalable en mentorat ou accompagnement ?
 
 #### Questions clés pour les mentorés :
 - Pourquoi souhaitez-vous être mentoré ?
-- Quel type de mentorat recherchez-vous ?
-- Quels sont vos besoins actuels ?
+- Quels sont vos objectifs principaux (techniques, orientation, etc.) ?
+- Quels sont vos besoins actuels ou vos défis majeurs ?
+- Préférez-vous un mentorat court terme ou long terme ? Pourquoi ?
+- Quelle est votre disponibilité (fréquence et durée des sessions) ?
+- Avez-vous des attentes spécifiques concernant votre mentor ?
+
 
 ### 5.2. Suivi et évaluation
 - Mise en place de points réguliers pour ajuster le programme.
