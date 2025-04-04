@@ -80,12 +80,11 @@ Un processus structuré sera mis en place pour évaluer les motivations, compét
 2. **Analyse des candidatures** :
    - Les candidatures seront examinées pour identifier les correspondances optimales entre mentors et mentorés.
 
-3. **Options de mise en relation** :
-   - **Choix par le mentor** : Une liste de mentorés potentiels sera proposée aux mentors, qui pourront choisir les personnes qu’ils souhaitent accompagner.
-   - **Sélection par Simplon** : Une personne dédiée chez Simplon se chargera de former les binômes en fonction des profils et des besoins identifiés.
+3. **Mise en relation** :
+    - **Sélection par Simplon** : Une personne dédiée chez Simplon se chargera de former les binômes potentiels en fonction des profils et des besoins identifiés.
 
-4. **Approche mixte** :
-   - Une combinaison des deux options peut être envisagée, avec supervision par le pôle mentoring pour garantir une adéquation optimale.
+   - **Choix par le mentor** : Une liste de mentorés potentiels sera proposée aux mentors, qui pourront choisir les personnes qu’ils souhaitent accompagner.
+
 
 ### 4.2. Différents types de mentorat
 - **Mentorat technique** : support sur les technologies, outils, bonnes pratiques.
